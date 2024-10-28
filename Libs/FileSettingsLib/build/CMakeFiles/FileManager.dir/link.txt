@@ -1,0 +1,2 @@
+C:\Users\Sengo\mingw64\bin\ar.exe qc libFileManager.a CMakeFiles/FileManager.dir/file_manager.cpp.obj
+C:\Users\Sengo\mingw64\bin\ranlib.exe libFileManager.a

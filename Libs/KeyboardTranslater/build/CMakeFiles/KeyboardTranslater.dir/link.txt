@@ -1,0 +1,2 @@
+C:\Users\Sengo\mingw64\bin\ar.exe qc libKeyboardTranslater.a CMakeFiles/KeyboardTranslater.dir/keyboard_translater.cpp.obj
+C:\Users\Sengo\mingw64\bin\ranlib.exe libKeyboardTranslater.a

@@ -1,0 +1,1 @@
+const char ANOTHER_APP_SEM[] = "ANOTHER_APP_RUNNING";
